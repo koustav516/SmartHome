@@ -1,0 +1,16 @@
+# Compiled files
+*.class
+build/
+WEB-INF/classes/
+
+# IDE files
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+
+# Logs
+*.log
